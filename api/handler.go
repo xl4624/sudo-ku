@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/xl4624/Sudoku/pkg"
+	"github.com/xl4624/Sudo-ku/pkg"
 )
 
 type Handler struct{}

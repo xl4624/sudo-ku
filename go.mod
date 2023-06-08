@@ -1,4 +1,4 @@
-module github.com/xl4624/Sudoku
+module github.com/xl4624/Sudo-ku
 
 go 1.20
 

@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/xl4624/Sudoku/pkg"
+	"github.com/xl4624/Sudo-ku/pkg"
 )
 
 func TestSolveHandler(t *testing.T) {

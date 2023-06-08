@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/xl4624/Sudoku/api"
-	"github.com/xl4624/Sudoku/pkg"
+	"github.com/xl4624/Sudo-ku/api"
+	"github.com/xl4624/Sudo-ku/pkg"
 )
 
 func main() {

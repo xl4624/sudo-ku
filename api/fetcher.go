@@ -9,7 +9,7 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/chromedp/chromedp"
-	"github.com/xl4624/Sudoku/pkg"
+	"github.com/xl4624/Sudo-ku/pkg"
 )
 
 type PuzzleFetcher struct {
