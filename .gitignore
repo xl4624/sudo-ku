@@ -1,0 +1,27 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary built using `go test -c`
+*.test
+
+# Build files
+*.o
+
+# IDEs and editors
+/.idea
+*.iml
+*.iws
+.vscode/
+*code-workspace
+
+# Log files
+*.log
+
+# Debug output
+debug/
+
+# Generated files
+!/.gitignore
