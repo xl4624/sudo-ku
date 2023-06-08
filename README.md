@@ -10,10 +10,10 @@ After Go is installed, you can download and run the project as follows:
 
 ```bash
 # Clone the repository
-git clone https://github.com/xl4624/Sudoku.git
+git clone https://github.com/xl4624/Sudo-ku.git
 
 # Go to the project directory
-cd Sudoku
+cd sudo-ku
 
 # Run the project, replacing "difficulty" with the difficulty level of the puzzle you want to solve
 go run main.go difficulty
